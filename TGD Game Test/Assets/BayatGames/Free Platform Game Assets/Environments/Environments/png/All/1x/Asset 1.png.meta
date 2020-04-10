@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 3afdd869ddc947440a69ffc9ed1819dd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Asset 1_0
+    21300002: Asset 1_1
+    21300004: Asset 1_2
+    21300006: Asset 1_3
+    21300008: Asset 1_4
+    21300010: Asset 1_5
+    21300012: Asset 1_6
+    21300014: Asset 1_7
+    21300016: Asset 1_8
+    21300018: Asset 1_9
+    21300020: Asset 1_10
+    21300022: Asset 1_11
+    21300024: Asset 1_12
+    21300026: Asset 1_13
+    21300028: Asset 1_14
+    21300030: Asset 1_15
+    21300032: Asset 1_16
+    21300034: Asset 1_17
+    21300036: Asset 1_18
+    21300038: Asset 1_19
+    21300040: Asset 1_20
+    21300042: Asset 1_21
+    21300044: Asset 1_22
+    21300046: Asset 1_23
+    21300048: Asset 1_24
+    21300050: Asset 1_25
+    21300052: Asset 1_26
+    21300054: Asset 1_27
+    21300056: Asset 1_28
+    21300058: Asset 1_29
+    21300060: Asset 1_30
+    21300062: Asset 1_31
+    21300064: Asset 1_32
+    21300066: Asset 1_33
+    21300068: Asset 1_34
+    21300070: Asset 1_35
+    21300072: Asset 1_36
+    21300074: Asset 1_37
+    21300076: Asset 1_38
+    21300078: Asset 1_39
+    21300080: Asset 1_40
+    21300082: Asset 1_41
+    21300084: Asset 1_42
+    21300086: Asset 1_43
+    21300088: Asset 1_44
+    21300090: Asset 1_45
+    21300092: Asset 1_46
+    21300094: Asset 1_47
+    21300096: Asset 1_48
+    21300098: Asset 1_49
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27e12e1741f28459e51c1bff4af918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0ba9c215132ba9e4a95e22c2632a1d53
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
